@@ -17,8 +17,9 @@ Interesting thing about 81, I was going to make it paid. Can you believe that?
 	Markgold Black (Windows 7 scratch project, probably named blac because of MS's internal codename for 7.): https://scratch.mit.edu/projects/380711354/fullscreen/
  	Markgold 10: Unrecoverable at the moment, will look into
 # Levathon Era (2021-2022)
-This era was probably one of the most original eras yet. This era had a lot of batch operating systems. 
-I currently cannot recover any, but i will look into such. I stopped developing in this era, due to the founding of Toast Maker Studios. 
+This era was probably one of the most original eras yet. This era had a lot of batch operating systems.
+I stopped developing in this era, due to the founding of Toast Maker Studios. 
+
   	LevathonOS(existence questioned): Currently lost
    	Levathon NEXT(April fools prank, name inspired off of windows 11 build naming): Currently lost
    	Levathon 1.0: https://drive.google.com/file/d/1bFOT-Jsfyf1oSMp5D6o7IAqduv_Dq1YL/view
