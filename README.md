@@ -24,11 +24,13 @@ I currently cannot recover any, but i will look into such. I stopped developing 
    	Levathon 1.0: Currently lost
 # officerdownOS Batch Era (2023-2024)
 These builds are hosted on Github. This UI was based heavily on Levathon 1.0's UI. Also batch. (Archived, development stopped.)
+
   	officerdownOS-Batch: https://github.com/officerdwn/officerdownOS-batch
 # officerdownOS Era (2024-current)
 This era is the most recent and most innovative era of all. These builds are actually bootable, and are in active development.
 I spent quite a bit of time trying to get the officerdownOS-batch UI ported to a bootable interface, And i did such back in January, with the help of fdipilla's hello-world-os (Thanks!).
 Although this is a fork of an OS, and I have used a lot of AI for this project, I am taking a break to actually learn C, so I don't have to rely on AI.
+
 	officerdownOS: https:/github.com/officerdwn/officerdownOS
  	officerdownRTOS(for my Arduino board gifted to me back in december, will start working on it after i get a good basis for the main OS): planned
   
