@@ -3,7 +3,8 @@ Archive for my old operating system projects.
 Since I have started development of my first ACTUAL Operating System, I decided it would be a good idea to go back and look at other projects.
 There are other projects, and mini eras, but I am too lazy to cover those.
 # Markgold Era (2019-2021?)
-Oh boy, is this a big one, I remember a while back I had a scratch account, and i saw some operating system emulators, so I just took these and retextured them, and did a TERRIBLE job at it too.
+Oh boy, is this a big one, I remember a while back I had a scratch account, I had one because of a school camp using it 
+to make "video games" and a year later i was on it, and i saw some operating system emulators, so I just took these and retextured them, and did a TERRIBLE job at it too.
 Ah, that was an interesting time though. even the NAME was stolen. This line of "operating systems" is long deprecated. Not sure why I stopped developing Markgold OSes, but im glad I did.
 Interesting thing about 81, I was going to make it paid. Can you believe that?
 
