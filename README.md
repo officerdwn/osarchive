@@ -35,7 +35,7 @@ I spent quite a bit of time trying to get the officerdownOS-batch UI ported to a
 	officerdownOS: https:/github.com/officerdwn/officerdownOS
         officerdownOS Rocky: https://github.com/officerdwn/officerdownOS-rocky
  	officerdownRTOS (OS for Arduino boards): planned
-  
+# Non-Vibecoded bootable Era (present)
    
   	
   	
