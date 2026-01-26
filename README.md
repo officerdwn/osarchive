@@ -28,15 +28,15 @@ I stopped developing in this era, due to the founding of Toast Maker Studios.
 These builds are hosted on Github. This UI was based heavily on Levathon 1.0's UI. Also batch. (Archived, development stopped.)
 
   	officerdownOS-Batch: https://github.com/officerdwn/officerdownOS-batch
-# officerdownOS Era (2024-current)
-This era is the most recent and most innovative era of all. These builds are actually bootable, and are in active development.
+# officerdownOS Era (2024-2025)
+This era is the most vibecoded of all. These builds are actually bootable, and are in active development.
 I spent quite a bit of time trying to get the officerdownOS-batch UI ported to a bootable interface, And i did such back in January, with the help of fdipilla's hello-world-os (Thanks!).
 
 	officerdownOS: https:/github.com/officerdwn/officerdownOS
         officerdownOS Rocky: https://github.com/officerdwn/officerdownOS-rocky
  	officerdownRTOS (OS for Arduino boards): planned
 # Non-Vibecoded bootable Era (present)
-   
+Ive stopped vibecoding, wait for more stuff ig.
   	
   	
 
